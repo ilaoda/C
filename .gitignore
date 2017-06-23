@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# VC6.0
+*.dsp
+*.dsw
+*.ncb
+*.plg
+*.opt
+*.ilk
+*.pch
+*.pdb
+*.idb
